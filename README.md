@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este projeto consiste em um sistema desenvolvido em Java que permite o cadastro de usuários e eventos, além de possibilitar a inscrição dos usuários nos eventos de seu interesse. O sistema é desenvolvido seguindo o paradigma de programação orientada a objetos e é estruturado em um projeto organizado em um repositório Git.
+Este projeto consiste em um sistema desenvolvido em Java que permite o cadastro de usuários e eventos, além de possibilitar a inscrição dos usuários nos eventos de seu interesse. O sistema é desenvolvido seguindo o paradigma de programação orientada a objetos.
 
 ## Estrutura do Projeto
 
